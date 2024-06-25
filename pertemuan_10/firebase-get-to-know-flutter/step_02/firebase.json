@@ -1,0 +1,24 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "heliosa-firebas",
+                    "appId": "1:294005036435:android:b4591e568d91ae4890c466",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "heliosa-firebas",
+                    "configurations": {
+                        "android": "1:294005036435:android:b4591e568d91ae4890c466",
+                        "ios": "1:294005036435:ios:02291a512cb9867c90c466",
+                        "macos": "1:294005036435:ios:02291a512cb9867c90c466",
+                        "web": "1:294005036435:web:a36e96a6b761e11690c466"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294005036435",
+    "project_id": "heliosa-firebas",
+    "storage_bucket": "heliosa-firebas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294005036435:android:b4591e568d91ae4890c466",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmAtaqTnpr2RntWkX_9Fk_I2dY3kyrr2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
